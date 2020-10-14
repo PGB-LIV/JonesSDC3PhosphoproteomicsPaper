@@ -1,5 +1,7 @@
 # JonesSDC3PhosphoproteomicsPaper
 
+Bayesian modelling code for [Jones et al. 2020](https://doi.org/10.1101/2020.08.10.244152).
+
 ## Requirements
  - [Julia language v0.5.2](https://julialang.org/downloads/oldreleases/#v052_may_6_2017)
  - [CmdStan](https://mc-stan.org/users/interfaces/cmdstan)
